@@ -17,3 +17,10 @@ Formas de uso
 
     Context
     https://react.dev/reference/react/useContext - React
+
+
+Gerenciadores de estado
+ useState e useContext (nativos do React)
+ redux
+ zustend
+
